@@ -11,5 +11,4 @@
   * [7. Priorisierung und Konfliktlösung](lastenheft/7.-priorisierung-und-konfliktloesung.md)
   * [8. Use Cases](lastenheft/8.-use-cases.md)
   * [9. Qualitätssicherung](lastenheft/9.-qualitaetssicherung.md)
-* [README](readme-1.md)
 
