@@ -12,7 +12,7 @@ Die Aufwandserfassung erfolgt in zwei Teilen. Der **erste Teil** wird automatisc
 
 Zu folgenden thematischen Meilensteinen soll die Aufwandserfassung stattfinden:
 
-* Eigene Methodentrainings \(Deadline: **eine Woche** nach dem Training\)
+* ~~Eigene Methodentrainings \(Deadline: **eine Woche** nach dem Training\)~~
 * Aufgaben durch die anderen Teams z.B. Interview \(Deadline: **eine Woche** nach der Durchführung\)
 * Dokumentation der Ergebnisse \(Deadline: **eine Woche** nach Fertigstellung der Dokumentation\)
 * \(weitere nach Bedarf, Deadline wird in der Vorlesung und in Discord bekannt gegeben\)
