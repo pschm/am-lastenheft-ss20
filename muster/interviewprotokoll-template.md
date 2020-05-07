@@ -37,8 +37,8 @@ Dauer: 5 Stunden
 ## Schlussfolgerungen 
 Hier scheint etwas fundamental falsch zu sein  
 
-### Die ist eine Schlussfolgerung 
+### Dies ist eine Schlussfolgerung 
 Das ist der Text zu dieser Schlussfolgerung 
 
-### Die ist eine andere Schlussfolgerung 
+### Dies ist eine andere Schlussfolgerung 
 Das ist der Text zu dieser anderen Schlussfolgerung 
