@@ -8,16 +8,7 @@ Die Formulierung des Lastenhefts erfolgt in Markdown. Jedes Team erhält eine ei
 
 ## Aufwandserfassung
 
-Die Aufwandserfassung erfolgt in zwei Teilen. Der **erste Teil** wird automatisch anhand der Commits ermittelt und hier veröffentlicht. Der **zweite Teil** erfolgt manuell von jedem Teammitglied. Diese Arbeitsmatrix erfasst die Aufwände, die nicht im Lastenheft abgebildet werden. In diesem Dokument können auch Hinweise zu Abweichungen zwischen den real geleisteten und den automatisch ermittelten Aufwänden gegeben werden. Das ausgefüllte [Template](https://github.com/pschm/am-lastenheft-ss20/blob/master/muster/arbeitsmatrix-template.md) zur Arbeitsmatrix wird zu bestimmten Meilensteinen im Semester abgegeben. Die Einhaltung der Abgaben-Deadline sollte selbstständig von jedem Teammitglied beachtet werden. Die Arbeitsmatrix wird anonym in [Sciebo](https://th-koeln.sciebo.de/s/DLjaEMZmxIjivTW) hochgeladen.
-
-Zu folgenden thematischen Meilensteinen soll die Aufwandserfassung stattfinden:
-
-* ~~Eigene Methodentrainings \(Deadline: **eine Woche** nach dem Training\)~~
-* Aufgaben durch die anderen Teams z.B. Interview \(Deadline: **eine Woche** nach der Durchführung\)
-* Dokumentation der Ergebnisse \(Deadline: **eine Woche** nach Fertigstellung der Dokumentation\)
-* \(weitere nach Bedarf, Deadline wird in der Vorlesung und in Discord bekannt gegeben\)
-
-Zur Qualitätssicherung behalten wir uns mögliche Abänderungen vor.
+In Klärung.
 
 ## Mitarbeiten
 
