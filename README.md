@@ -8,7 +8,7 @@ Die Formulierung des Lastenhefts erfolgt in Markdown. Jedes Team erhält eine ei
 
 ## Aufwandserfassung
 
-In Klärung.
+Siehe [Aufwands-Tabelle](team-efforts.md).
 
 ## Mitarbeiten
 
