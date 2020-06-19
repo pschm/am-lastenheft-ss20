@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Anforderungsmanagement](README.md)
+* [Organisatorisches](orga/README.md)
+  * [Aufwände](orga/team-efforts.md)
+  * [Protokoll und Feedback](orga/protokoll.md)
 * [Lastenheft](lastenheft/README.md)
   * [1. Stakeholer, Ziele und Systemkontext](lastenheft/1.-stakeholer-ziele-und-systemkontext.md)
   * [2. Persona und Szenarien](lastenheft/2.-persona-und-szenarien.md)
