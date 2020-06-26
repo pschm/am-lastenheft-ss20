@@ -16,10 +16,10 @@
   * [9. Quellen](lastenheft/09.-quellen.md)
   * [10. Anhang](lastenheft/10.-anhang.md)
     * 10.1 Interviewleitfaden
-      * [Team-1](anhang/interviewleitfaden/Team-1_Projektleiter-InnoHub.md)
-      * [Team-7/8](anhang/interviewleitfaden/Team-7-8_Firma-Hans-Berg.md)
-      * [Team-8](anhang/interviewleitfaden/Team-8_Striko.md) 
+      * [Team-1](lastenheft/anhang/interviewleitfaden/Team-1_Projektleiter-InnoHub.md)
+      * [Team-7/8](lastenheft/anhang/interviewleitfaden/Team-7-8_Firma-Hans-Berg.md)
+      * [Team-8](lastenheft/anhang/interviewleitfaden/Team-8_Striko.md) 
     * 10.2 Umfragen
-      * [Professor\*in und wissenschaftliche\*r Mitarbeiter\*in](anhang/umfragen/prof-ma.md)
+      * [Professor\*in und wissenschaftliche\*r Mitarbeiter\*in](lastenheft/anhang/umfragen/prof-ma.md)
 
 
