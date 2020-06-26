@@ -15,11 +15,11 @@
   * [8. Qualitätssicherung](lastenheft/08.-qualitaetssicherung.md)
   * [9. Quellen](lastenheft/09.-quellen.md)
   * [10. Anhang](lastenheft/10.-anhang.md)
-    * Interviewleitfaden
+    * [10.1 Interviewleitfaden](lastenheft/anhang/interviewleitfaden/README.md)
       * [Team-1](lastenheft/anhang/interviewleitfaden/Team-1_Projektleiter-InnoHub.md)
       * [Team-7/8](lastenheft/anhang/interviewleitfaden/Team-7-8_Firma-Hans-Berg.md)
       * [Team-8](lastenheft/anhang/interviewleitfaden/Team-8_Striko.md) 
-    * Umfragen
+    * [10.2 Umfragen](lastenheft/anhang/umfragen/README.md)
       * [Professor\*in und wissenschaftliche\*r Mitarbeiter\*in](lastenheft/anhang/umfragen/prof-ma.md)
 
 
