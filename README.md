@@ -8,7 +8,7 @@ Die Formulierung des Lastenhefts erfolgt in Markdown. Jedes Team erhält eine ei
 
 ## Aufwandserfassung
 
-Siehe [Aufwands-Tabelle](team-efforts.md).
+Siehe [Aufwands-Tabelle](orga/team-efforts.md).
 
 ## Mitarbeiten
 

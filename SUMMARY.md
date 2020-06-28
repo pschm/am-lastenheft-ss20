@@ -2,6 +2,7 @@
 
 * [Anforderungsmanagement](README.md)
 * [Organisatorisches](orga/README.md)
+  * [Zeitplan Fallstudie](orga/zeitplan.md)
   * [Aufwände](orga/team-efforts.md)
   * [Protokoll und Feedback](orga/protokoll.md)
 * [Lastenheft](lastenheft/README.md)
