@@ -6,6 +6,14 @@ Ein Beispiel mit einem Link zur Überschrift Weitere Aspekte in der Prof/Ma Umfr
 
 `[Link](umfragen/prof-ma.md#weitere-aspekte)`
 
+Jede Anforderung beginnt mit der jeweiligen [ID](https://github.com/pschm/am-lastenheft-ss20/blob/master/muster/id-vergabe.md) in Fettschrift und ohne Doppelpunkt gefolgt von der Anforderung. In eckigen Klammern am Ende der Anforderung befinden sich die dazugehörigen Quellen (mit Verlinkung).
+
+Beispiel:
+
+**NF-0101** Die Data Platform muss aussagekräftige Daten bereitstellen, damit Störungen begründet werden können und die Arbeit des Instandhaltungsmitarbeiters erleichtert wird [[QU-0101](../lastenheft/09.-quellen.md#QU-0101), [QU-0102](../lastenheft/09.-quellen.md#QU-0102)].
+
+
+
 ## Glossar
 Möchtet ihr auf einzelne Begriffe verlinken, welche im Gegensatz zu bspw. Überschriften nicht automatisch einen Anchor zugewissen bekommen, müsst ihr diesen selbst definieren.
 
