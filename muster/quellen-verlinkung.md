@@ -8,9 +8,11 @@ Ein Beispiel mit einem Link zur Überschrift Weitere Aspekte in der Prof/Ma Umfr
 
 Jede Anforderung beginnt mit der jeweiligen [ID](https://github.com/pschm/am-lastenheft-ss20/blob/master/muster/id-vergabe.md) in Fettschrift und ohne Doppelpunkt gefolgt von der Anforderung. In eckigen Klammern am Ende der Anforderung befinden sich die dazugehörigen Quellen (mit Verlinkung).
 
-Beispiel:
+**Beispiel:**
 
 **NF-0101** Die Data Platform muss aussagekräftige Daten bereitstellen, damit Störungen begründet werden können und die Arbeit des Instandhaltungsmitarbeiters erleichtert wird [[QU-0101](../lastenheft/09.-quellen.md#QU-0101), [QU-0102](../lastenheft/09.-quellen.md#QU-0102)].
+
+`**NF-0101** Die Data Platform muss aussagekräftige Daten bereitstellen, damit Störungen begründet werden können und die Arbeit des Instandhaltungsmitarbeiters erleichtert wird [[QU-0101](../lastenheft/09.-quellen.md#QU-0101), [QU-0102](../lastenheft/09.-quellen.md#QU-0102)].`
 
 
 
