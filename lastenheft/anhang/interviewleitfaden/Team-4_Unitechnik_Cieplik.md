@@ -30,8 +30,11 @@ Dauer: 35 Minuten
 3. Einwilligung für das Mitschreiben/Aufnahme des Interviews
 
 4. Vorstellung seitens Herr Cieplik
+
       4.1 Wie sind Sie zu dem Projekt gekommen?
+      
       4.2 Was ist Ihre Rolle im Projekt?
+      
             
 #### Projekt
 5. Mit dem Innovation Hub soll die zunehmende Digitalisierung der Wirtschaft fokussiert
