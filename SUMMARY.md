@@ -17,6 +17,7 @@
   * [9. Quellen](lastenheft/09.-quellen.md)
   * [10. Anhang](lastenheft/10.-anhang.md)
     * [10.1 Interviewleitfaden](lastenheft/anhang/interviewleitfaden/README.md)
+      * [Team-6](lastenheft/anhang/interviewleitfaden/team_6_pyschny)
       * [Team-1](lastenheft/anhang/interviewleitfaden/team-1_projektleiter-innohub.md)
       * [Team-7/8](lastenheft/anhang/interviewleitfaden/team-7-8_firma-hans-berg.md)
       * [Team-8](lastenheft/anhang/interviewleitfaden/team-8_striko.md) 
