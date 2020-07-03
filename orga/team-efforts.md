@@ -16,11 +16,10 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | Kapitel | sonstige Aktivität | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 | Team 7/8 | Team 7 | Team 8 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 |   | Lastenheft-Struktur aufgesetzt   |  |  |  |  |  |  |  |  | 100% | 
-|   | Struktur für Stakeholer, Ziele und Systemkontext aufgesetzt   | 100% |  |  |  |  |  |  |  |  | 
-|   | Struktur für Stakeholer, Ziele und Systemkontext ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
-|   | Personas und Szenarien ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
-|   | Nicht-Funktionale Anforderungen ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
-|   | Funktionale Anforderungen ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
-|   | Personas und Szenarien ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
-|   | Kapitel 1 redaktionell aufgearbeitet   | 100% |  |  |  |  |  |  |  |  | 
+| 1 | Struktur für Stakeholer, Ziele und Systemkontext aufgesetzt   | 100% |  |  |  |  |  |  |  |  | 
+| 1 | Struktur für Stakeholer, Ziele und Systemkontext ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
+| 2 | Personas und Szenarien ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
+| 4 | Funktionale Anforderungen ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
+| 5 | Nicht-Funktionale Anforderungen ermittelt   | 12,5% |  |  |  |  |  |  |  |  | 
+| 1 | Kapitel 1 redaktionell aufgearbeitet   | 100% |  |  |  |  |  |  |  |  | 
 
