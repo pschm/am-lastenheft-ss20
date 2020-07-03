@@ -3,8 +3,11 @@ Für die Vergabe von den IDs gilt ein einheitliches Format mittels [Kapitelkürz
 
 | Kapitel | Kürzel |
 |--------|--------|
-| **S**takeholder, **Z**iele und Systemkontext|**SZ** |
-|**P**ersona und **S**zenarien |  **PS**
+| **St**akeholder|**ST** |
+|**Zi**ele|**ZI** |
+| **S**ystem**k**ontext|**SK** |
+|**Pe**rsona|  **PE**
+|**Sz**enarien |  **SZ**
 | **Gl**ossar | **GL**
 |**Fu**nktionale Anforderungen | **FU**
 |**N**icht **f**unktionale Anforderungen|  **NF**
