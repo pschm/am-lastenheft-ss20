@@ -1,11 +1,11 @@
 
-Interviewer
-- Marvin Hallweger 
-- Falah Obaidi 
+#### Interviewer
+     Marvin Hallweger 
+     Falah Obaidi 
 
-Interviewpartner: 
-- Prof. Dr. Nicolas Pyschny
-Moderator des Handlungsfelds "Additive Manufacturing" und "Montage 4.0" im Innovation Hub.
+#### Interviewpartner: 
+     Prof. Dr. Nicolas Pyschny
+     Moderator des Handlungsfelds "Additive Manufacturing" und "Montage 4.0" im Innovation Hub.
 
 Leitfrage für das Interview
 Wie kann die geplante Data Platform im Innovation Hub die Handlungsfelder “Montage 4.0” und “Additive Manufacturing” unterstützen?
