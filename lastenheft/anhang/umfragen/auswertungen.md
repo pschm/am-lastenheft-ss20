@@ -1,4 +1,6 @@
-# 1 Mitarbeiter der Unternehmen <a name="AN-0201">AN-0201</a>
+# Quantitative Auswertungen der Fragebögen
+
+## 1 Mitarbeiter der Unternehmen <a name="AN-0201">AN-0201</a>
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen1.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen2.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen3.png)
@@ -19,9 +21,9 @@ rot -> nein
 grün -> ja
 
 
-# 2 Mitarbeiter/Professoren der TH Köln <a name="AN-0202">AN-0202</a>
+## 2 Mitarbeiter/Professoren der TH Köln <a name="AN-0202">AN-0202</a>
 
-# 3 Studenten der TH Köln <a name="AN-0203">AN-0203</a>
+## 3 Studenten der TH Köln <a name="AN-0203">AN-0203</a>
 Insgesamt haben 38 Studenten an der Umfrage teilgenommen. 
 
 #### Relativer Anteil der Befragungsteilnehmer nach Studiengang/Schwerpunkt
