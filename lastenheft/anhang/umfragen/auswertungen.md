@@ -25,30 +25,30 @@ grün -> ja
 ##### Relativer Anteil der Befragungsteilnehmer nach Rolle/Titel
 ![Rolle/Titel](../../img/umfrage-prof-wma-001.png)
 
-##### In welchem Aufgabengebiet/Schwerpunkt sind Sie an der TH tätig?
+##### Häufigkeit der genannten Aufgabengebiete/Schwerpunkte.
 ![Aufgabengebiet](../../img/umfrage-prof-wma-002.png)
 
-##### Haben Sie bereits Erfahrung mit der Analyse großer Datenmengen?
+##### Relativer Anteil der Personen mit Erfahrung bei der Analyse großer Datenmengen?
 ![Aufgabengebiet](../../img/umfrage-prof-wma-003.png)
 
-##### Gibt es Hard- und/oder Software aus dem Bereich der Datenanalyse, welche Sie bei der Data Platform erwarten würden?
+##### Relativer Anteil der Personen, welche spezielle Hard- und/oder Software aus dem Breich der Datenanalyse erwarten?
 ![Aufgabengebiet](../../img/umfrage-prof-wma-004.png)
 
-##### Gibt es Lehrveranstaltungen, Abschlussarbeiten, Lehr- oder Forschungs-Projekte, für die Sie das Angebot einer Data Platform nutzen würden?
+##### Relativer Anteil der Personen, welche das Angebot der Data Platform für Lehrveranstaltungen, Abschlussarbeiten, Lehr- oder Forschungs-Projekte nutzen würden.
 ![Aufgabengebiet](../../img/umfrage-prof-wma-005.png)
 
-##### Können Sie sich vorstellen, dass die Nutzung der Data Platform einen positiven Einfluss auf den Aufwand eigener Module/Projekte hat?
+##### Relativer Anteil der Personen die sich einen positiven Einfluss der Data Platform auf eigene Module/Projekte vorstellen können.
 ![Aufgabengebiet](../../img/umfrage-prof-wma-006.png)
 
-##### Wie sehr sind Sie mit Industrie 4.0 vertraut?
+##### Häufigkeit der Personen, welche bereits Erfahrung im Bereich der Industrie 4.0 gesammelt haben. 
 von "noch nie gehört" (0) bis "sehr vertraut" (4)
 
 ![Aufgabengebiet](../../img/umfrage-prof-wma-007.png)
 
-##### Auf welchen der folgenden Bereiche könnten Sie sich vorstellen in Zukunft, mit Hilfe des Innovation Hubs, einen größeren Fokus zu legen?
+##### Häufigkeit nach Themengebieten. Teilnehmende Personen können sich zukünftig einen Fokus auf diese Themengebieten vorstellen.
 ![Aufgabengebiet](../../img/umfrage-prof-wma-008.png)
 
-##### Können Sie sich den Innovation Hub generell (also nur nur die Data Platform) als Basis vorstellen, um Kontakt und Kollaborationen mit Unternehmen für Projekte aufzubauen?
+##### Häufigkeit, in welchem Maße sich teilnehmende Personen vorstellen können, die Data Platform als Basis für Kontakt und Kollaboration mit Unternehmen zu nutzen. 
 ![Aufgabengebiet](../../img/umfrage-prof-wma-009.png)
 
 ## 3 Studenten der TH Köln <a name="AN-0202-03">AN-0202-03</a>
