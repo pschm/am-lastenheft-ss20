@@ -25,4 +25,6 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 4 | Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  |  |  |12,5% |  |  | 
 | 5 | Nicht-Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  | |  | 12,5% |  |  | 
 | 1 | Kapitel 1 redaktionell aufgearbeitet   | 100% |  |  |  |  |  |  |  |  | 
+| 6 | Priorisierung der Anforderungen   |  |  |  |  |  |  |  | 25% | 25% |
+|  | ID-Schema inklusive Anker für Verlinkungen   |  |  |  |  |  |  |  |  | 100% |
 |etc| Restrukturierung Discord |  | 100% |  |  |  |  |  |  |  |
