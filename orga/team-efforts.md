@@ -16,15 +16,17 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | Kapitel | sonstige Aktivität | Team 1 | Team 2 | Team 3 | Team 4 | Team 5 | Team 6 | Team 7/8 | Team 7 | Team 8 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 |   | Lastenheft-Struktur aufgesetzt   |  |  |  |  |  |  |  |  | 100% | 
+|   | Interview matching durchgeführt   | 100%  |  |  |  |  |  |  |  |  | 
+|   | Interviews konzipiert / durchgeführt / protokolliert | 14,3%  | 14,3%  |  | 14,3%  | 14,3%  | 14,3%  | 14,3%  |  | 14,3%  | 
 | 1 | Struktur für Stakeholer, Ziele und Systemkontext aufgesetzt   | 100% |  |  |  |  |  |  |  |  | 
-| 1 | Struktur für Stakeholer, Ziele und Systemkontext ermittelt   | 12,5% | 12,5% |  |  |  |  | 12,5% |  |  | 
+| 1 | Stakeholer, Ziele und Systemkontext ermittelt | 14,3%  | 14,3%  |  | 14,3%  | 14,3%  | 14,3%  | 14,3%  |  | 14,3%  | 
+| 1 | Kapitel 1 redaktionell aufgearbeitet   | 100% |  |  |  |  |  |  |  |  | 
 | 2 | Vorgaben und generelle Organisation für Umfragen |  | 100% |  |  |  |  |  |  |  |
 | 2 | Vorgaben, Formalisierung und generelle Organisation für Personas und Szenarien |  | 100% |  |  |  |  |  |  |  |
 | 2 | Redaktionelle Aufarbeitung & Struktur Kapitel 2 |  | 100% |  |  |  |  |  |  |  |
 | 2 | Personas und Szenarien ermittelt   | 12,5% | 12,5% |  |  |  |  |12,5%|  |  | 
 | 4 | Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  |  |  |12,5% |  |  | 
 | 5 | Nicht-Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  | |  | 12,5% |  |  | 
-| 1 | Kapitel 1 redaktionell aufgearbeitet   | 100% |  |  |  |  |  |  |  |  | 
-| 6 | Priorisierung der Anforderungen   |  |  |  |  |  |  |  | 25% | 25% |
+| 6 | Priorisierung der Anforderungen   | 12,5% |  |  |  |  |  |  | 25% | 25% |
 |  | ID-Schema inklusive Anker für Verlinkungen   |  |  |  |  |  |  |  |  | 100% |
 |etc| Restrukturierung Discord |  | 100% |  |  |  |  |  |  |  |
