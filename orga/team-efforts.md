@@ -24,9 +24,9 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 2 | Vorgaben und generelle Organisation für Umfragen |  | 100% |  |  |  |  |  |  |  |
 | 2 | Vorgaben, Formalisierung und generelle Organisation für Personas und Szenarien |  | 100% |  |  |  |  |  |  |  |
 | 2 | Redaktionelle Aufarbeitung & Struktur Kapitel 2 |  | 100% |  |  |  |  |  |  |  |
-| 2 | Personas und Szenarien ermittelt   | 12,5% | 12,5% |  |  |  |  |12,5%|  |  | 
-| 4 | Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  |  |  |12,5% |  |  | 
-| 5 | Nicht-Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  | |  | 12,5% |  |  | 
+| 2 | Personas und Szenarien ermittelt   | 12,5% | 12,5% |  |  |  | 12,5% |12,5%|  |  | 
+| 4 | Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  |  | 12,5% |12,5% |  |  | 
+| 5 | Nicht-Funktionale Anforderungen ermittelt   | 12,5% | 12,5% |  |  | | 12,5% | 12,5% |  |  | 
 | 6 | Priorisierung der Anforderungen   | 12,5% |  |  |  |  |  |  | 25% | 25% |
 |  | ID-Schema inklusive Anker für Verlinkungen   |  |  |  |  |  |  |  |  | 100% |
 |etc| Restrukturierung Discord |  | 100% |  |  |  |  |  |  |  |
