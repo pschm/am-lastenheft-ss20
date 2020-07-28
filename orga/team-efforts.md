@@ -15,7 +15,8 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 
 | Kapitel | sonstige Aktivität | Team 1 | Team 2 | Team 4 | Team 5 | Team 6 | Team 7/8 | Team 7 | Team 8 |
 |---|---|---|---|---|---|---|---|---|---|
-|  | Lastenheft-Struktur aufgesetzt |  |  |  |  |  |  |  | 100% |
+|  | Kapitel-Struktur aufgesetzt |  |  |  |  |  |  |  | 100% |
+|  | Moderierung gitHub und gitbook |  |  |  |  |  |  |  | 100% |
 |  | Entwicklung eines Programms zur Commit-Auswertung |  |  |  |  |  |  |  | 100% |
 |  | Interview matching durchgeführt | 100% |  |  |  |  |  |  |  |
 |  | Interviews konzipiert / durchgeführt / protokolliert | 14,3% | 14,3% | 14,3% | 14,3% | 14,3% | 14,3% |  | 14,3% |
@@ -31,4 +32,6 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 6 | Bewertung der Anforderungen | 12,5% |  |  |  |  |  | 25% | 25% |
 | 6 | Priorisierung der Anforderungen |  |  |  |  | 100% |  |  |  |
 |  | ID-Schema inklusive Anker für Verlinkungen |  |  |  |  |  |  |  | 100% |
+| 8 | Vorbereitung, Verteilung & Überwachung der QS-Maßnahmen |  |  |  |  |  |  |  | 100% |
 | etc | Restrukturierung Discord |  | 100% |  |  |  |  |  |  |
+
