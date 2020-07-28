@@ -17,7 +17,7 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 |---|---|---|---|---|---|---|---|---|---|
 |  | Kapitel-Struktur aufgesetzt |  |  |  |  |  |  |  | 100% |
 |  | Moderierung gitHub und gitbook |  |  |  |  |  |  |  | 100% |
-|  | Entwicklung eines Programms zur Commit-Auswertung |  |  |  |  |  |  |  | 100% |
+|  | Evaluierung und Entwicklung eines Programms zur Commit-Auswertung |  |  |  |  |  |  |  | 100% |
 |  | Interview matching durchgeführt | 100% |  |  |  |  |  |  |  |
 |  | Interviews konzipiert / durchgeführt / protokolliert | 14,3% | 14,3% | 14,3% | 14,3% | 14,3% | 14,3% |  | 14,3% |
 | 1 | Struktur für Stakeholer, Ziele und Systemkontext aufgesetzt | 100% |  |  |  |  |  |  |  |
