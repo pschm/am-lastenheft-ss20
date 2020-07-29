@@ -3,9 +3,9 @@
 ## Allgemeiner Hinweis
 Die Aufgaben der Qualitätssicherung lassen sich in drei Phasen eingliedern:
 
-1. Vorbereitungsphase: Das Vorbereitungsteam definiert zwei Rollen und erstellt die Checklisten. Die Dokumente werden Team 8 zur Kontrolle übergeben.
-2. Durchführungsphase: Nachdem Team 8 die Dokumente der ersten Phase akzeptiert hat, werden die jeweiligen Methoden von dem Durchführungs Team durchgeführt und die gefunden Fehler dokumentiert. Gegebenenfalls folgt eine Diskussion bei Klärungsbedarf. Das Durchführungs Team gibt das ausgefüllte Protokoll dem Vorbereitungsteam zurück und steht für weitere Fragen bereit. 
-3. Nachbereitungsphase: Die Fehler werden am Schluss von dem VorbereitungsTeam behoben und dokumentiert.
+1. **Vorbereitungsphase**: Das Vorbereitungsteam definiert zwei Rollen und erstellt die Checklisten. Die Dokumente werden Team 8 zur Kontrolle übergeben.
+2. **Durchführungsphase**: Nachdem Team 8 die Dokumente der ersten Phase akzeptiert hat, werden die jeweiligen Methoden von dem Durchführungs Team durchgeführt und die gefunden Fehler dokumentiert. Gegebenenfalls folgt eine Diskussion bei Klärungsbedarf. Das Durchführungs Team gibt das ausgefüllte Protokoll dem Vorbereitungsteam zurück und steht für weitere Fragen bereit. 
+3. **Nachbereitungsphase**: Die Fehler werden am Schluss von dem VorbereitungsTeam behoben und dokumentiert.
 
 ## Ideen für die Checkliste (Alle) 
 Berücksichtigt bei der Erstellung der Checkliste folgende Qualitätsaspekte:
@@ -30,6 +30,6 @@ Sie sollten aus folgenden groben Bereichen definiert werden:
 2. TH Köln (Prof. Dr. Florian Zwanzig)
 3. Firmen (Prof. Dr. Denis Anders)
 
-In den Klammern hinter den Rollen ist jeweils eine Person definiert, wessen Ansichten beim Lesen besonders beachtet werden sollte. Eine Zusammenfassung wurde von Team-1 bereitgestellt und ist unter [Kapitel 1.3.1](../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) zu finden.
+In den Klammern hinter den Rollen ist jeweils eine Person definiert, wessen Ansichten beim Lesen besonders beachtet werden sollten. Eine Zusammenfassung wurde von Team-1 bereitgestellt und ist unter [Kapitel 1.3.1](../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) zu finden.
 
 Solltet ihr weitere Rollen im Fokus sehen, definiert diese bitte mit in der Checkliste, damit die anderen Teams wissen, worauf sie besonders achten müssen.
