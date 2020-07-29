@@ -17,8 +17,8 @@ Wenn ihr mehrere Checklisten für verschiedene Artefakte habt, kopiert ihr die M
 ## Checkliste
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 |  |
-|  2 |  |
+|  1 | Aus Perspektive von Rolle A gelesen |
+|  2 | Aus Perspektive von Rolle B gelesen |
 |  3 |  |
 |  4 |  |
 |  5 |  |
