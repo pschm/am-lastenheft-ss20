@@ -13,17 +13,11 @@ die 3. und 4. Ziffer sind ein einfacher Counter der, soweit möglich, konsistent
 Die folgende Tabelle dient dazu, festzustellen welche Rollen für das perspektivenbasierte Lesen in welchen Kapiteln der Szenarien angenommen werden sollen (Also beispielsweise: Die Szenarien aus Kapitel 2.3.1 sollten aus den Perspektiven "Unternehmen (Geschäftsführung)" und "Innohub" gelesen werden), es wird kein PbL für die Personas durchgeführt.
 
 |Rollen: | Unternehmen (Geschäftsführung) | Unternehmen (Angestellte)| TH (Mitarbeiter) | TH (Studenten) | Innohub|
-
 |----|----|----|----|----|----|
-
 |2.3.1 Unternehmen (Geschäftsführung) | x |  |  |  | x |
-
 |2.3.2 Unternehmen (Angestellte) | x | x |  |  |  |
-
 |2.3.3 TH (Mitarbeiter) |  |  | x | x |  |
-
 |2.3.4 TH (Studenten) |  |  | x | x |  |
-
 |2.3.5 Innohub | x |  |  |  | x |
 
 ### Rollenguide:
