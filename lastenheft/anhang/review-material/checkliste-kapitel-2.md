@@ -33,12 +33,12 @@ TH (Studenten): Die Studenten der TH erhoffen sich durch den Einsatz der Datapla
 Innohub: Die Leitung des Innohubs ist daran interessiert, durch Kooperation zwischen Unternehmen und Hochschule mittelfristig eine unabhängige Institution zu schaffen, die sich wirtschaftlich selbst tragen kann und der weiteren Kooperation zwischen Wirtschaft und Lehre, sowie dem fortschreitenden Wirtschaftswachstum der Region, dient.
 
 # Checkliste Kapitel 2
-Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt diese entsprechend der Guidelines in [8. Qualitätssicherung](../lastenheft/08.-qualitaetssicherung.md) aus
+Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt diese entsprechend der Guidelines in [8. Qualitätssicherung](../../08.-qualitaetssicherung.md) aus
 
 ## Metadaten Personas
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0321">**AN-0321**</a> | [8. Qualitätssicherung](../lastenheft/08.-qualitaetssicherung.md) | Personas |
+| <a name="AN-0321">**AN-0321**</a> | [8. Qualitätssicherung](../../08.-qualitaetssicherung.md) | Personas |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
@@ -58,7 +58,7 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 ## Metadaten Szenarien
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0322">**AN-0322**</a> | [8. Qualitätssicherung](../lastenheft/08.-qualitaetssicherung.md) | Szenarien |
+| <a name="AN-0322">**AN-0322**</a> | [8. Qualitätssicherung](../../08.-qualitaetssicherung.md) | Szenarien |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
