@@ -18,3 +18,14 @@
 |  8 | Ergebnisse sind gut veranschaulicht? |
 |  9 | Ergebnisse konsistent mit den Zielen der Stakeholder? |
 |  10 | Integrierung in das Lastenheft, im Kontext der AM Veranstaltung? (Wie gut passt es in das Lastenheft?) |
+
+#
+**Rollenverteilung für Perspektiveslesen**
+
+|Rollen: | Unternehmen (Geschäftsführung) | Unternehmen (Angestellte)| TH (Mitarbeiter) | TH (Studenten) | Innohub|
+|----|----|----|----|----|----|
+|2.3.1 Unternehmen (Geschäftsführung) |  |  |  |  | x |
+|2.3.2 Unternehmen (Angestellte) | x | x |  | x |  |
+|2.3.3 TH (Mitarbeiter) |  |  | x |  | x|
+|2.3.4 TH (Studenten) |  |  | x |  |  |
+|2.3.5 Innohub | x |  | x|  | x |
