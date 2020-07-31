@@ -18,7 +18,7 @@
 | 11 | Zieleintrag als Ganzes ist für Außenstehnde verständlich formuliert |
 | 12 | Ziel ist angemessen um es vor den Stakeholdern zu präsentieren |
 
-## Checkliste eies einzelnen Systemkontextes
+## Checkliste eines einzelnen Systemkontextes
 | Nr\. | Prüfpunkt |
 |---|---|
 |  1 | Systemkontext aus Sicht von Stakeholder 1 angemessen |
