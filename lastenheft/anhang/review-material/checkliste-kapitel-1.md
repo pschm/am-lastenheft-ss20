@@ -29,7 +29,7 @@
 |  6 | Anchor für Verlinkung von außen korrekt gesetzt |
 |  7 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
 |  8 | Systemkontext ist für Außenstehende verständlich |
-|  9 | Beschreibung trägt in ausreichendem Maße zur Verständnis bei |
+|  9 | Beschreibung trägt in ausreichendem Maße zum Verständnis bei |
 | 10 | Systemkontext ist angemessen um ihn vor den Stakeholdern zu präsentieren |
 
 ## Checkliste der Sektion Stakeholder (1.3)
