@@ -22,4 +22,6 @@
 #
 **Rollenverteilung für Perspektivenbasiertes lesen**
 
+Geschäftsleitung und Mitarbeiter der Unternehmen!
+
 
