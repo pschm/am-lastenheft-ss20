@@ -20,7 +20,7 @@
 |  10 | Integrierung in das Lastenheft, im Kontext der AM Veranstaltung? (Wie gut passt es in das Lastenheft?) |
 
 #
-**Rollenverteilung für Perspektiveslesen**
+**Rollenverteilung für Perspektivenbasiertes lesen**
 
 |Rollen: | Unternehmen (Geschäftsführung) | Unternehmen (Angestellte)| TH (Mitarbeiter) | TH (Studenten) | Innohub|
 |----|----|----|----|----|----|
