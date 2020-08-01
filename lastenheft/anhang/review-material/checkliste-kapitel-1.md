@@ -3,7 +3,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0311">**AN-0311**</a> | [1. Stakeholer, Ziele und Systemkontext](../lastenheft/01.-stakeholer-ziele-und-systemkontext.md) | Ziele |
+| <a name="AN-0311">**AN-0311**</a> | [1. Stakeholer, Ziele und Systemkontext](../../01.-stakeholer-ziele-und-systemkontext.md) | Ziele |
 
 ## Checkliste eines einzelnen Ziels
 | Nr\. | Prüfpunkt |
@@ -28,7 +28,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0312">**AN-0312**</a> | [1. Stakeholer, Ziele und Systemkontext](../lastenheft/01.-stakeholer-ziele-und-systemkontext.md) | Systemkontext |
+| <a name="AN-0312">**AN-0312**</a> | [1. Stakeholer, Ziele und Systemkontext](../../01.-stakeholer-ziele-und-systemkontext.md) | Systemkontext |
 
 ## Checkliste eines einzelnen Systemkontextes
 | Nr\. | Prüfpunkt |
@@ -49,7 +49,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0313">**AN-0313**</a> | [1. Stakeholer, Ziele und Systemkontext](../lastenheft/01.-stakeholer-ziele-und-systemkontext.md) | Stakeholder |
+| <a name="AN-0313">**AN-0313**</a> | [1. Stakeholer, Ziele und Systemkontext](../../01.-stakeholer-ziele-und-systemkontext.md) | Stakeholder |
 
 ## Checkliste der Sektion Stakeholder
 | Nr\. | Prüfpunkt |
