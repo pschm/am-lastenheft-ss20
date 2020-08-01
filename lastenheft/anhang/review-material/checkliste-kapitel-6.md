@@ -3,7 +3,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0361">**AN-0361**</a> | [6. Priorisierung und Konfliktlösung](../../06.-priorisierung-und-konfliktloesung.md) | Priorisierung und Konfliktlösung |
+| <a name="AN-0361">**AN-0361**</a> | [6. Priorisierung und Konfliktlösung](../lastenheft/06.-priorisierung-und-konfliktloesung.md) | Priorisierung und Konfliktlösung |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
@@ -18,10 +18,5 @@
 |  8 | Ergebnisse sind gut veranschaulicht? |
 |  9 | Ergebnisse konsistent mit den Zielen der Stakeholder? |
 |  10 | Integrierung in das Lastenheft, im Kontext der AM Veranstaltung? (Wie gut passt es in das Lastenheft?) |
-
-#
-**Rollenverteilung für Perspektivenbasiertes lesen**
-
-Geschäftsleitung und Mitarbeiter der Unternehmen!
-
-
+|  11 | Kapitel aus Perspektive einer [Geschäftsleitung eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen. |
+|  12 | Kapitel aus Perspektive eines [Mitarbeiter der Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen. |
