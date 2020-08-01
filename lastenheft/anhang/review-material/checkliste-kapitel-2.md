@@ -78,4 +78,4 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 | 11 | Szenario ist nicht redundant zu anderen Szenarien |
 | 12 | Akteur ist als Persona vorhanden |
 | 13 | Szenario wurde aus Perspektive der ersten relevanten Rolle gelesen |
-| 14 | Szenario wurde aus Perspektive der ersten relevanten Rolle gelesen |
+| 14 | Szenario wurde aus Perspektive der zweiten relevanten Rolle gelesen |
