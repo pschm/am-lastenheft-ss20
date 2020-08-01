@@ -16,5 +16,5 @@
 |  5 | Name der Abschitte passend |
 |  6 | ID-Vergabe konsistent |
 |  7 | Inhalt der Anforderungen zum Thema passend |
-|  8 | richtige Verwendung der Anforderungsschablone |
-|  9 | keine Duplikate vorhanden |
+|  8 | Richtige Verwendung der Anforderungsschablone |
+|  9 | Keine Duplikate vorhanden |
