@@ -3,7 +3,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0361">**AN-0361**</a> | [6. Priorisierung und Konfliktlösung](../lastenheft/06.-priorisierung-und-konfliktloesung.md) | Priorisierung und Konfliktlösung |
+| <a name="AN-0361">**AN-0361**</a> | [6. Priorisierung und Konfliktlösung](../../06.-priorisierung-und-konfliktloesung.md) | Priorisierung und Konfliktlösung |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
