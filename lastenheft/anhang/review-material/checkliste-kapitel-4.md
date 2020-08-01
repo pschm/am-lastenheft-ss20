@@ -3,7 +3,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0341">**AN-0341**</a> | [4. Funktionale Anforderungen](../lastenheft/04.-funktionale-anforderungen.md) | Funktionale Anforderungen |
+| <a name="AN-0341">**AN-0341**</a> | [4. Funktionale Anforderungen](../../04.-funktionale-anforderungen.md) | Funktionale Anforderungen |
 
 
 ## Checkliste
