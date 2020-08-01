@@ -38,7 +38,7 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 ## Metadaten Personas
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0321">**AN-0321**</a> | [8. Qualitätssicherung](../../08.-qualitaetssicherung.md) | Personas |
+| <a name="AN-0321">**AN-0321**</a> | [02.-persona-und-szenarien.md](../../02.-persona-und-szenarien.md) | Personas |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
@@ -55,10 +55,12 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 | 10 | Persona repräsentiert realistisch einen Teil der Zielgruppe |
 | 11 | Persona ist nicht redundant zu anderen Personas |
 
+---
+
 ## Metadaten Szenarien
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0322">**AN-0322**</a> | [8. Qualitätssicherung](../../08.-qualitaetssicherung.md) | Szenarien |
+| <a name="AN-0322">**AN-0322**</a> | [02.-persona-und-szenarien.md](../../02.-persona-und-szenarien.md) | Szenarien |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
