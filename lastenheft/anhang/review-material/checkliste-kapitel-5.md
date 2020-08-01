@@ -3,7 +3,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0351">**AN-0351**</a> | [8. Qualitätssicherung](../lastenheft/08.-qualitaetssicherung.md) | Nicht-funktionale Anforderungen |
+| <a name="AN-0351">**AN-0351**</a> | [5. Nicht-funktionale Anforderungen](../lastenheft/05.-nicht-funktionale-anforderungen.md) | Nicht-funktionale Anforderungen |
 
 ## Checkliste
 | Nr\. | Prüfpunkt |
