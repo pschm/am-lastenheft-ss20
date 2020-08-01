@@ -8,15 +8,14 @@
 ## Checkliste
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Syntax und Semantik angemessen?  |
-|  2 | Quellen Referenz funktioniert? |
-|  3 | Vergabe der ID's ? |
+|  1 | Rechtschreibung und Grammatik prüfen  |
+|  2 | Quellen Referenz funktionieren |
+|  3 |  ID's vergeben |
 |  4 | Priorisierungsergebnisse wurden korrekt übernommen (Priorisierte Listen im Anhang) |
-|  5 | Funktionale Anforderung ID korrekt übernommen? |
-|  6 | Nicht-funktionale Anforderung ID korrekt übernommen? |
-|  7 | Einheitliches Format vorhanden? |
-|  8 | Ergebnisse sind gut veranschaulicht? |
-|  9 | Ergebnisse konsistent mit den Zielen der Stakeholder? |
-|  10 | Integrierung in das Lastenheft, im Kontext der AM Veranstaltung? (Wie gut passt es in das Lastenheft?) |
-|  11 | Kapitel aus Perspektive einer [Geschäftsleitung eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen. |
-|  12 | Kapitel aus Perspektive eines [Mitarbeiter der Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen. |
+|  5 | Funktionale Anforderung ID sind korrekt übernommen |
+|  6 | Nicht-funktionale Anforderung ID sind korrekt übernommen |
+|  7 |  Das Format ist Einheitlich |
+|  8 | Ergebnisse wurde veranschaulicht in form von Abbildungen oder Tabellen |
+|  9 | Ergebnisse sind konsistent mit den Zielen der Stakeholder |
+|  10 | Kapitel aus Perspektive einer [Geschäftsleitung eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen. |
+|  11 | Kapitel aus Perspektive eines [Mitarbeiter der Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen. |
