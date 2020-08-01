@@ -8,11 +8,13 @@
 ## Checkliste
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Rechtschreibung korrekt |
-|  2 | Formulierung formal angemessen und professionell |
+|  1 | Rechtschreibung und Grammatik korrekt |
+|  2 | Satzschablone (siehe unten) eingehalten |
 |  3 | Quellen richtig verlinkt |
 |  4 | Anchor für Verlinkung von Ziel Mapping auf Nicht-funktionale Anforderungen korrekt gesetzt |
-|  5 | Template wurde korrekt angewandt |
-|  6 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
-|  7 | Duplikate wurden konsolidiert |
-|  8 | Satzschablone eingehalten |
+|  5 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
+|  6 | Duplikate konsolidiert |
+
+## Satzschablone
+Die Satzschablone ist folgendermaßen aufgebaut: Die DataPlatform (\<muss\>|\<sollte\>|\<wird\>) [Text]
+
