@@ -1,7 +1,7 @@
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-03xx">**AN-0371**</a> | [8. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | z.B. Persona / Szenarien / Glossar / ... |
+| <a name="AN-03xx">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | z.B. Persona / Szenarien / Glossar / ... |
 
 ## Checkliste Allgemein
 
