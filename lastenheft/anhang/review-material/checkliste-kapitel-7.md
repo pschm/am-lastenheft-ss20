@@ -1,9 +1,9 @@
-## Metadaten
+## Metadaten Allgemein
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-03xx">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | z.B. Persona / Szenarien / Glossar / ... |
+| <a name="AN-03xx">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation, Aktivitätsdiagramme |
 
-## Checkliste Allgemein
+## Checkliste
 
 | Nr\. | Prüfpunkt |
 |---|---|
@@ -18,8 +18,14 @@
 |  9 | Beziehungen in den UC-Diagrammen sind richtig |
 | 10 | Aktivitätsdiagramme entsprechen den Szenarien |
 
+---
 
-## Checkliste Allgemein
+## Metadaten Perspektivenbasiertes Lesen
+| ID | Kapitel | Vorgesehen für |
+|---|---|---|
+| <a name="AN-03xx">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation |
+
+## Checkliste (Rolle 1)
 Rolle: [Prof. Dr. Denis Anders](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen)
 
 | Nr\. | Prüfpunkt |
@@ -30,7 +36,7 @@ Rolle: [Prof. Dr. Denis Anders](https://github.com/pschm/am-lastenheft-ss20/blob
 |  4 | Bei den einzelnen Schritten die Frage stellen: Bringt mich das weiter? |
 
 
-## Checkliste Allgemein
+## Checkliste (Rolle 2)
 Rolle: [Torsten Winterberg](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen)
 
 | Nr\. | Prüfpunkt |
