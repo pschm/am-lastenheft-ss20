@@ -24,3 +24,4 @@
 |  13 | Anforderungen passen zum Thema Data Platform |
 |  14 | Richtige Verwendung der klassischen [Anforderungsschablone](../../img/Anforderungsschablone.png) oder der [Anforderungsschablone mit Bedingung](../../img/Anforderungsschablone%20mit%20Bedingung.png)|
 |  15 | Keine Duplikate vorhanden |
+|  16 | Verankerung/Verlinkung ist im GitBook korrekt (GitBook-Verlinkungen bleiben im GitBook) |
