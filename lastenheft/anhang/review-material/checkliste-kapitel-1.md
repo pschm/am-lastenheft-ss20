@@ -21,6 +21,9 @@
 | 11 | Auswirkungen auf die Stakeholder sind formuliert |
 | 12 | Denkbare Einschränkungen sind aufgeführt |
 | 13 | Das Ziel lässt sich Stakeholdern präsentieren |
+| 14 | Begriffe sind verständlich bzw. im Glossar definiert. |
+| 15 | Glossarbegriffe sind verlinkt |
+| 16 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 
 ---
 
@@ -42,6 +45,9 @@
 | 8 | Systemkontext ist für Außenstehende verständlich |
 | 9 | Durch die Beschreibung ist der Systemkontext erkennbar |
 |10 | Systemkontext lässt sich Stakeholdern präsentieren |
+| 11 | Begriffe sind verständlich bzw. im Glossar definiert. |
+| 12 | Glossarbegriffe sind verlinkt |
+| 13 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 
 ---
 
@@ -59,3 +65,6 @@
 | 4 | Grammatik ist korrekt |
 | 5 | Stakeholderliste lässt sich vor den Stakeholdern präsentieren |
 | 6 | Stakeholder sind in TH/Firmen und InnoHub gegliedert |
+| 7 | Begriffe sind verständlich bzw. im Glossar definiert. |
+| 8 | Glossarbegriffe sind verlinkt |
+| 9 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
