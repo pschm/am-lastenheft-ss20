@@ -8,20 +8,18 @@
 ## Checkliste eines einzelnen Ziels
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Ziel aus Sicht von Stakeholder 1 angemessen |
-|  2 | Ziel aus Sicht von Stakeholder 2 angemessen |
+|  1 | Ziel wurde aus Sicht der Geschäftsleitung eines Unternehmens gelesen |
+|  2 | Ziel wurde aus Sicht der Leitung des InnoHubs gelesen |
 |  3 | Rechtschreibung und Grammatik sind korrekt |
-|  4 | Formulierung formal angemessen und professionell |
-|  5 | Quellen sind richtig verlinkt |
-|  6 | Anchor für Verlinkung von außen korrekt gesetzt |
-|  5 | Ziel wird mit einem Strich vom nächsten getrennt |
-|  6 | Überschrift ist mit Punkt beendet |
-|  7 | Ziel ist nachvollziehbar definiert |
-|  8 | Stakeholder des Ziels sind aufgeführt |
-|  9 | Auswirkungen auf die Stakeholder sind formuliert |
-| 10 | Denkbare Einschränkungen sind aufgeführt |
-| 11 | Zieleintrag als Ganzes ist für Außenstehnde verständlich formuliert |
-| 12 | Ziel ist angemessen um es vor den Stakeholdern zu präsentieren |
+|  4 | Quellen sind richtig verlinkt |
+|  5 | Anchor für Verlinkungen ist korrekt gesetzt |
+|  6 | Ziel wird mit einem Strich vom nächsten getrennt |
+|  7 | Überschrift ist mit Punkt beendet |
+|  8 | Das Ziel wurde fachlich verstanden |
+|  9 | Stakeholder des Ziels sind aufgeführt |
+| 10 | Auswirkungen auf die Stakeholder sind formuliert |
+| 11 | Denkbare Einschränkungen sind aufgeführt |
+| 12 | Das Ziel lässt sich Stakeholdern präsentieren |
 
 ---
 
@@ -33,16 +31,15 @@
 ## Checkliste eines einzelnen Systemkontextes
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Systemkontext aus Sicht von Stakeholder 1 angemessen |
-|  2 | Systemkontext aus Sicht von Stakeholder 2 angemessen |
-|  3 | Rechtschreibung und Grammatik sind korrekt |
-|  4 | Formulierung formal angemessen und professionell |
-|  5 | Quellen sind richtig verlinkt |
-|  6 | Anchor für Verlinkung von außen korrekt gesetzt |
-|  7 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
-|  8 | Systemkontext ist für Außenstehende verständlich |
-|  9 | Beschreibung trägt in ausreichendem Maße zum Verständnis bei |
-| 10 | Systemkontext ist angemessen um ihn vor den Stakeholdern zu präsentieren |
+| 1 | Ziel wurde aus Sicht der Geschäftsleitung eines Unternehmens gelesen |
+| 2 | Ziel wurde aus Sicht der Leitung des InnoHubs gelesen |
+| 3 | Rechtschreibung und Grammatik sind korrekt |
+| 4 | Quellen sind richtig verlinkt |
+| 5 | Anchor für Verlinkungen ist korrekt gesetzt |
+| 6 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
+| 7 | Systemkontext ist für Außenstehende verständlich |
+| 8 | Durch die Beschreibung ist der Systemkontext erkennbar |
+| 9 | Systemkontext lässt sich Stakeholdern präsentieren |
 
 ---
 
@@ -54,10 +51,8 @@
 ## Checkliste der Sektion Stakeholder
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Systemkontext aus Sicht von Stakeholder 1 angemessen |
-|  2 | Systemkontext aus Sicht von Stakeholder 2 angemessen |
-|  3 | Rechtschreibung und Grammatik sind korrekt |
-|  4 | Formulierung formal angemessen und professionell |
-|  5 | Stakeholderliste ist angemessen um sie vor den Stakeholdern zu präsentieren |
-|  8 | Stakeholderliste ist für Außenstehende verständlich |
-|  9 | Stakeholder sind in TH/Firmen und InnoHub gegliedert |
+| 1 | Ziel wurde aus Sicht der Geschäftsleitung eines Unternehmens gelesen |
+| 2 | Ziel wurde aus Sicht der Leitung des InnoHubs gelesen |
+| 3 | Rechtschreibung und Grammatik sind korrekt |
+| 4 | Stakeholderliste lässt sich vor den Stakeholdern präsentieren |
+| 5 | Stakeholder sind in TH/Firmen und InnoHub gegliedert |
