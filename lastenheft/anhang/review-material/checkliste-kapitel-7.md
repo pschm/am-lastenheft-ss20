@@ -10,17 +10,18 @@
 | Nr\. | Prüfpunkt |
 |---|---|
 |  1 | Rechtschreibung überprüft |
-|  2 | IDs korrekt vergeben |
-|  3 | Größenverhältnisse von Diagrammen einheitlich |
-|  4 | Schritte richtig nummeriert |
-|  5 | Quellen verlinkt |
-|  6 | In Spezifikation alle Felder gefüllt |
-|  7 | Schritte sind möglichst atomar |
-|  8 | Actors sind sinnvoll benannt |
-|  9 | Beziehungen in den UC-Diagrammen sind richtig |
-| 10 | Aktivitätsdiagramme entsprechen den Szenarien |
-| 11 | Glossarbegriffe sind verlinkt |
-| 12 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
+|  2 | Grammatik überprüft |
+|  3 | IDs korrekt vergeben |
+|  4 | Größenverhältnisse von Diagrammen einheitlich |
+|  5 | Schritte richtig nummeriert |
+|  6 | Quellen verlinkt |
+|  7 | In Spezifikation alle Felder gefüllt |
+|  8 | Schritte sind möglichst atomar |
+|  9 | Actors sind sinnvoll benannt |
+| 10 | Beziehungen in den UC-Diagrammen sind richtig |
+| 11 | Aktivitätsdiagramme entsprechen den Szenarien |
+| 12 | Glossarbegriffe sind verlinkt |
+| 13 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 
 ---
 
