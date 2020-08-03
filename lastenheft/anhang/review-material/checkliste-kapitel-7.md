@@ -19,9 +19,8 @@
 |  8 | Actors sind sinnvoll benannt |
 |  9 | Beziehungen in den UC-Diagrammen sind richtig |
 | 10 | Aktivitätsdiagramme entsprechen den Szenarien |
-| 11 | Begriffe sind verständlich bzw. im Glossar definiert. (Auch aus Sicht der gelesenen Rolle verständlich) |
-| 12 | Glossarbegriffe sind verlinkt |
-| 13 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
+| 11 | Glossarbegriffe sind verlinkt |
+| 12 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 
 ---
 
@@ -39,6 +38,7 @@ Rolle: [Prof. Dr. Denis Anders](https://github.com/pschm/am-lastenheft-ss20/blob
 |  2 | User Happiness test: Bin ich zufrieden, nachdem der UC durchgeführt wurde?  |
 |  3 | Coffee-Break Test: Kann ich nachdem der UC durchgeführt wurde, ohne schlechtes Gewissen einen Kaffee trinken gehen? |
 |  4 | Bei den einzelnen Schritten die Frage stellen: Bringt mich das weiter? |
+|  5 | Begriffe sind aus dieser Rolle verständlich bzw. im Glossar definiert. |
 
 
 ## Checkliste (Rolle 2)
@@ -51,3 +51,4 @@ Rolle: [Torsten Winterberg](https://github.com/pschm/am-lastenheft-ss20/blob/mas
 |  3 | Verhalten des Systems ist in den Ausnahmeszenarien ausreichend beschrieben |
 |  4 | Bei den einzelnen Schritten die Frage stellen: Bringt mich das weiter? |
 |  5 | Verhalten des Systems ist in den Alternativszenarien ausreichend beschrieben |
+|  6 | Begriffe sind aus dieser Rolle verständlich bzw. im Glossar definiert. |
