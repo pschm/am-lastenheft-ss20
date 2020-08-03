@@ -8,11 +8,19 @@
 ## Checkliste
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Rechtschreibung und Grammatik korrekt |
-|  2 | Richtige Verwendung der klassischen [Anforderungsschablone](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/Anforderungsschablone.png) oder der [Anforderungsschablone mit Bedingung](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/Anforderungsschablone%20mit%20Bedingung.png) |
-|  3 | Quellen richtig verlinkt |
-|  4 | Anchor für Verlinkung von Ziel Mapping auf Nicht-funktionale Anforderungen korrekt gesetzt |
-|  5 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
-|  6 | Duplikate konsolidiert |
-|  7 | Formulierungen vollständig und verständlich, keine [Transformationsprozesse](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/Transformationsprozesse.png) vorhanden |
+|  1 | Rechtschreibung ist korrekt |
+|  2 | Grammatik ist korrekt|
+|  2 | Richtige Verwendung der klassischen [Anforderungsschablone](../../img/Anforderungsschablone.png) oder der [Anforderungsschablone mit Bedingung](../../img/Anforderungsschablone%20mit%20Bedingung.png) |
+|  3 | Anforderung sind korrekt in dem Sinne, dass diese problemgebunden sind und keine "versteckte" Lösungen enthalten |
+|  4 | Formulierungen sind vollständig d.h. es sind keine [Transformationsprozesse](../../img/Transformationsprozesse.png) vorhanden |
+|  5 | Formulierungen sind verständlich (Fachbegriffe sind im Glossar definiert)|
+|  6 | Formulierungen sind eindeutig (Fachbegriffe sind im Glossar definiert)|
+|  7 | Anforderungen sind in sich widerspruchsfrei |
+|  8 | Anforderungen lassen sich nachvollziehbar in den Kontext eingliedern |
+|  9 | Quellen sind richtig verlinkt |
+| 10 | Verankerung/Verlinkung ist im GitBook korrekt (GitBook-Verlinkungen bleiben im GitBook) |
+| 11 | Anchor für Verlinkung von Ziel Mapping auf Nicht-funktionale Anforderungen sind korrekt gesetzt |
+| 12 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
+| 13 | Duplikate sind konsolidiert |
+
 
