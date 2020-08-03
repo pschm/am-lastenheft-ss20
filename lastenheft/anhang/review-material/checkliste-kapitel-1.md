@@ -8,18 +8,19 @@
 ## Checkliste eines einzelnen Ziels
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Ziel wurde aus Sicht der Geschäftsleitung eines Unternehmens gelesen |
-|  2 | Ziel wurde aus Sicht der Leitung des InnoHubs gelesen |
-|  3 | Rechtschreibung und Grammatik sind korrekt |
-|  4 | Quellen sind richtig verlinkt |
-|  5 | Anchor für Verlinkungen ist korrekt gesetzt |
-|  6 | Ziel wird mit einem Strich vom nächsten getrennt |
-|  7 | Überschrift ist mit Punkt beendet |
-|  8 | Das Ziel wurde fachlich verstanden |
-|  9 | Stakeholder des Ziels sind aufgeführt |
-| 10 | Auswirkungen auf die Stakeholder sind formuliert |
-| 11 | Denkbare Einschränkungen sind aufgeführt |
-| 12 | Das Ziel lässt sich Stakeholdern präsentieren |
+|  1 | Ziel wurde aus Sicht der [Geschäftsleitung eines Unternehmens](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
+|  2 | Ziel wurde aus Sicht der [Leitung des InnoHubs](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
+|  3 | Rechtschreibung ist korrekt |
+|  4 | Grammatik ist korrekt |
+|  5 | Quellen sind richtig verlinkt |
+|  6 | Anchor für Verlinkungen ist korrekt gesetzt |
+|  7 | Ziel wird mit einem Strich vom nächsten getrennt |
+|  8 | Überschrift ist mit Punkt beendet |
+|  9 | Das Ziel ist fachlich verstanden |
+| 10 | Stakeholder des Ziels sind aufgeführt |
+| 11 | Auswirkungen auf die Stakeholder sind formuliert |
+| 12 | Denkbare Einschränkungen sind aufgeführt |
+| 13 | Das Ziel lässt sich Stakeholdern präsentieren |
 
 ---
 
@@ -31,15 +32,16 @@
 ## Checkliste eines einzelnen Systemkontextes
 | Nr\. | Prüfpunkt |
 |---|---|
-| 1 | Ziel wurde aus Sicht der Geschäftsleitung eines Unternehmens gelesen |
-| 2 | Ziel wurde aus Sicht der Leitung des InnoHubs gelesen |
-| 3 | Rechtschreibung und Grammatik sind korrekt |
-| 4 | Quellen sind richtig verlinkt |
-| 5 | Anchor für Verlinkungen ist korrekt gesetzt |
-| 6 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
-| 7 | Systemkontext ist für Außenstehende verständlich |
-| 8 | Durch die Beschreibung ist der Systemkontext erkennbar |
-| 9 | Systemkontext lässt sich Stakeholdern präsentieren |
+| 1 | Ziel wurde aus Sicht der [Geschäftsleitung eines Unternehmens](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
+| 2 | Ziel wurde aus Sicht der [Leitung des InnoHubs](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
+| 3 | Rechtschreibung ist korrekt |
+| 4 | Grammatik ist korrekt |
+| 5 | Quellen sind richtig verlinkt |
+| 6 | Anchor für Verlinkungen ist korrekt gesetzt |
+| 7 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
+| 8 | Systemkontext ist für Außenstehende verständlich |
+| 9 | Durch die Beschreibung ist der Systemkontext erkennbar |
+|10 | Systemkontext lässt sich Stakeholdern präsentieren |
 
 ---
 
@@ -51,8 +53,9 @@
 ## Checkliste der Sektion Stakeholder
 | Nr\. | Prüfpunkt |
 |---|---|
-| 1 | Ziel wurde aus Sicht der Geschäftsleitung eines Unternehmens gelesen |
-| 2 | Ziel wurde aus Sicht der Leitung des InnoHubs gelesen |
-| 3 | Rechtschreibung und Grammatik sind korrekt |
-| 4 | Stakeholderliste lässt sich vor den Stakeholdern präsentieren |
-| 5 | Stakeholder sind in TH/Firmen und InnoHub gegliedert |
+| 1 | Ziel wurde aus Sicht der [Geschäftsleitung eines Unternehmens](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
+| 2 | Ziel wurde aus Sicht der [Leitung des InnoHubs](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
+| 3 | Rechtschreibung ist korrekt |
+| 4 | Grammatik ist korrekt |
+| 5 | Stakeholderliste lässt sich vor den Stakeholdern präsentieren |
+| 6 | Stakeholder sind in TH/Firmen und InnoHub gegliedert |
