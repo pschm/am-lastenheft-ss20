@@ -8,17 +8,18 @@
 ## Checkliste
 | Nr\. | Prüfpunkt |
 |---|---|
-|  1 | Rechtschreibung und Grammatik prüfen  |
-|  2 | Quellen Referenzen funktionieren |
-|  3 | ID's sind vergeben und konsistent |
-|  4 | Priorisierungsergebnisse sind korrekt übernommen (Priorisierte Listen im Anhang) |
-|  5 | Funktionale Anforderung ID's sind korrekt übernommen |
-|  6 | Nicht-funktionale Anforderung ID's sind korrekt übernommen |
-|  7 |  Das Format ist einheitlich |
-|  8 | Ergebnisse sind veranschaulicht in Form von Abbildungen oder Tabellen |
-|  9 | Ergebnisse sind konsistent mit den Zielen der Stakeholder |
-| 10 | Begriffe sind verständlich bzw. im Glossar definiert. (Auch aus Sicht der gelesenen Rolle verständlich) |
-| 11 | Glossarbegriffe sind verlinkt |
-| 12 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
-| 13 | Kapitel aus Perspektive einer [Geschäftsleitung eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen |
-| 14 | Kapitel aus Perspektive eines [Mitarbeiters eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen |
+|  1 | Rechtschreibung prüfen  |
+|  2 | Grammatik prüfen  |
+|  3 | Quellen Referenzen funktionieren |
+|  4 | ID's sind vergeben und konsistent |
+|  5 | Priorisierungsergebnisse sind korrekt übernommen (Priorisierte Listen im Anhang) |
+|  6 | Funktionale Anforderung ID's sind korrekt übernommen |
+|  7 | Nicht-funktionale Anforderung ID's sind korrekt übernommen |
+|  8 |  Das Format ist einheitlich |
+|  9 | Ergebnisse sind veranschaulicht in Form von Abbildungen oder Tabellen |
+| 10 | Ergebnisse sind konsistent mit den Zielen der Stakeholder |
+| 11 | Begriffe sind verständlich bzw. im Glossar definiert. (Auch aus Sicht der gelesenen Rolle verständlich) |
+| 12 | Glossarbegriffe sind verlinkt |
+| 13 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
+| 14 | Kapitel aus Perspektive einer [Geschäftsleitung eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen |
+| 15 | Kapitel aus Perspektive eines [Mitarbeiters eines Unternehmens](rollen-des-perspektivenbasierten-lesens.md) lesen |
