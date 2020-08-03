@@ -28,6 +28,11 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 2 | Redaktionelle Aufarbeitung & Struktur Kapitel 2 |  | 100% |  |  |  |  |  |  |
 | 2 | Personas und Szenarien ermittelt | 12,5% | 12,5% |  |  | 12,5% | 12,5% |  | 12,5% |
 | 4 | Funktionale Anforderungen ermittelt | 12,5% | 12,5% |  |  | 12,5% | 12,5% |  | 12,5% |
+| 4 | Duplikatsprüfung | | |  |  | |  |  | |
+| 4 | Vergabe von IDs & Anker für Verlinkungen, Angabe der Quellen  | | |  |  | |  |  | |
+| 4 | Review der funktionalen Anforderungen | | |  |  | |  |  | |
+| 4 | Kategorisierung der funktionalen Anforderungen | | |  |  | |  |  | |
+| 4 | Vorgabe der Ziel-funktionale Anforderungen Tabelle  | | |  |  | |  |  | |
 | 5 | Nicht-Funktionale Anforderungen ermittelt | 12,5% | 12,5% |  |  | 12,5% | 12,5% |  | 12,5% |
 | 6 | Bewertung der Anforderungen | 12,5% |  |  |  |  |  | 25% | 25% |
 | 6 | Priorisierung der Anforderungen |  |  |  |  | 100% |  |  |  |
