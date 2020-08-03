@@ -17,6 +17,9 @@
 |  8 | Actors sind sinnvoll benannt |
 |  9 | Beziehungen in den UC-Diagrammen sind richtig |
 | 10 | Aktivitätsdiagramme entsprechen den Szenarien |
+| 11 | Begriffe sind verständlich bzw. im Glossar definiert. (Auch aus Sicht der gelesenen Rolle verständlich) |
+| 12 | Glossarbegriffe sind verlinkt |
+| 13 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 
 ---
 
