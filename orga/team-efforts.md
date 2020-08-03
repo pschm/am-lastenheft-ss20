@@ -26,15 +26,20 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 2 | Vorgaben und generelle Organisation für Umfragen |  | 100% |  |  |  |  |  |  |
 | 2 | Vorgaben, Formalisierung und generelle Organisation für Personas und Szenarien |  | 100% |  |  |  |  |  |  |
 | 2 | Redaktionelle Aufarbeitung & Struktur Kapitel 2 |  | 100% |  |  |  |  |  |  |
-| 2 | Personas und Szenarien ermittelt | 12,5% | 12,5% |  |  | 12,5% | 12,5% |  | 12,5% |
-| 4 | Funktionale Anforderungen ermittelt | 12,5% | 12,5% |  |  | 12,5% | 12,5% |  | 12,5% |
-| 4 | Duplikatsprüfung | | |  |  | |  |  | |
-| 4 | Vergabe von IDs & Anker für Verlinkungen, Angabe der Quellen  | | |  |  | |  |  | |
-| 4 | Review der funktionalen Anforderungen | | |  |  | |  |  | |
-| 4 | Kategorisierung der funktionalen Anforderungen | | |  |  | |  |  | |
-| 4 | Vorgabe der Ziel-funktionale Anforderungen Tabelle  | | |  |  | |  |  | |
-| 5 | Nicht-Funktionale Anforderungen ermittelt | 12,5% | 12,5% |  |  | 12,5% | 12,5% |  | 12,5% |
-| 6 | Bewertung der Anforderungen | 12,5% |  |  |  |  |  | 25% | 25% |
+| 2 | Personas und Szenarien ermittelt | 12,5% | 12,5% |12,5% |12,5% | 12,5% | 12,5% |  | 12,5% |
+| 4 | Funktionale Anforderungen ermittelt | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% |
+| 4 | Duplikatsprüfung | | | 100% |  | |  |  | |
+| 4 | Vergabe von IDs & Anker für Verlinkungen, Angabe der Quellen  | | | 100% |  | |  |  | |
+| 4 | Review der funktionalen Anforderungen | | | 100%  |  | |  |  | |
+| 4 | Kategorisierung der funktionalen Anforderungen | | | 100% |  | |  |  | |
+| 4 | Vorgabe der Ziel-funktionale Anforderungen Tabelle  | | | 100% |  | |  |  | |
+| 5 | Nicht-Funktionale Anforderungen ermittelt | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% |
+| 5 | Duplikatsprüfung | | |  | 100% | |  |  | |
+| 5 | Vergabe von IDs & Anker für Verlinkungen, Angabe der Quellen  | | |  | 100% | |  |  | |
+| 5 | Review der funktionalen Anforderungen | | |  | 100% | |  |  | |
+| 5 | Kategorisierung der nicht-funktionalen Anforderungen | | |  | 100% | |  |  | |
+| 5 | Vorgabe der Ziel- nicht-funktionale Anforderungen Tabelle  | | |  | 100% | |  |  | |
+| 6 | Bewertung der Anforderungen | 12,5% |  | 12,5% | 12,5% |  |  | 25% | 25% |
 | 6 | Priorisierung der Anforderungen |  |  |  |  | 100% |  |  |  |
 |  | ID-Schema inklusive Anker für Verlinkungen |  |  |  |  |  |  |  | 100% |
 | 8 | Vorbereitung, Verteilung & Überwachung der QS-Maßnahmen |  |  |  |  |  |  |  | 100% |
