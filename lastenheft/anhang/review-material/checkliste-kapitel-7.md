@@ -1,7 +1,9 @@
+# Anleitung für das Review zu Kapitel 7
+
 ## Metadaten Allgemein
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-03xx">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation, Aktivitätsdiagramme |
+| <a name="AN-0371">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation, Aktivitätsdiagramme |
 
 ## Checkliste
 
@@ -26,7 +28,7 @@
 ## Metadaten Perspektivenbasiertes Lesen
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-03xx">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation |
+| <a name="AN-0372">**AN-0372**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation |
 
 ## Checkliste (Rolle 1)
 Rolle: [Prof. Dr. Denis Anders](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen)
