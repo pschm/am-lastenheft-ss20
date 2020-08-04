@@ -10,7 +10,7 @@ Die IDs für Personas und Szenarien wurden nach einem Muster vergeben, das die R
 die 3. und 4. Ziffer sind ein einfacher Counter der, soweit möglich, konsistent zwischen Persona und zugehörigem Szenario gehalten wurde.
 
 ## Erklärung zu den Rollen für das perspektivenbasierte Lesen:
-Die folgende Tabelle dient dazu, festzustellen welche Rollen für das perspektivenbasierte Lesen in welchen Kapiteln der Szenarien angenommen werden sollen (Also beispielsweise: Die Szenarien aus Kapitel 2.3.1 sollten aus den Perspektiven "Unternehmen (Geschäftsführung)" und "Innohub" gelesen werden), es wird kein PbL für die Personas durchgeführt.
+Die folgende Tabelle dient dazu, festzustellen welche Rollen für das perspektivenbasierte Lesen in welchen Kapiteln der Szenarien angenommen werden sollen (Also beispielsweise: Die Szenarien aus Kapitel 2.3.1 sollten aus den Perspektiven "Unternehmen (Geschäftsführung)" und "Innohub" gelesen werden), es wird kein PbL für die Personas durchgeführt, da diese selbst effektiv Perspektiven darstellen und nicht sinnvoll aus einer anderen Perspektive reviewt werden können.
 
 |Rollen: | Unternehmen (Geschäftsführung) | Unternehmen (Angestellte)| TH (Mitarbeiter) | TH (Studenten) | Innohub|
 |----|----|----|----|----|----|
@@ -44,16 +44,17 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 | Nr\. | Prüfpunkt |
 |---|---|
 |  1 | Rechtschreibung korrekt |
-|  2 | Formulierung formal angemessen und professionell |
+|  2 | Formulierung formal angemessen und professionell (Satzbau, Füllwörter, Grammatik, keine Umgangssprache)|
 |  3 | Quellen richtig verlinkt |
-|  4 | Anchor für Verlinkung von außen korrekt gesetzt |
-|  5 | Benennung zwischen Text und Header konsistent (bspw. Titel die im Text enthalten sind werden auch im Header gelistet) |
-|  6 | Kapitelüberschriften sind konsistent |
-|  7 | ID-Vergabe konsistent entsprechend Guide (siehe oben) |
-|  8 | Template wurde korrekt angewandt |
-|  9 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
-| 10 | Persona repräsentiert realistisch einen Teil der Zielgruppe |
-| 11 | Persona ist nicht redundant zu anderen Personas |
+|  4 | Anchor für Verlinkung korrekt gesetzt und ID stimmt mit Text überein |
+|  5 | Git interne Links sind relative Links und korrekt |
+|  6 | Benennung zwischen Text und Header konsistent (bspw. Titel die im Text enthalten sind werden auch im Header gelistet) |
+|  7 | Kapitelüberschriften sind konsistent (Reihenfolge, Nummerierung, Titel) |
+|  8 | ID-Vergabe konsistent entsprechend Guide (siehe oben) |
+|  9 | [Template](../../02.-persona-und-szenarien.md#KAP-2.1) ist korrekt angewandt |
+| 10 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
+| 11 | Persona repräsentiert realistisch einen Teil der Zielgruppe |
+| 12 | Persona ist nicht redundant zu anderen Personas |
 
 ---
 
@@ -66,16 +67,17 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 | Nr\. | Prüfpunkt |
 |---|---|
 |  1 | Rechtschreibung korrekt |
-|  2 | Formulierung formal angemessen und professionell |
+|  2 | Formulierung formal angemessen und professionell (Satzbau, Füllwörter, Grammatik, keine Umgangssprache)|
 |  3 | Quellen richtig verlinkt |
-|  4 | Anchor für Verlinkung von außen korrekt gesetzt |
-|  5 | Benennung zwischen Text und Header konsistent (bspw. Titel die im Text enthalten sind werden auch im Header gelistet) |
-|  6 | Kapitelüberschriften sind konsistent |
-|  7 | ID-Vergabe konsistent entsprechend Guide (siehe oben) |
-|  8 | Template wurde korrekt angewandt |
-|  9 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
-| 10 | Szenario besitzt fachlichen Bezug zur DataPlatform |
-| 11 | Szenario ist nicht redundant zu anderen Szenarien |
-| 12 | Akteur ist als Persona vorhanden |
-| 13 | Szenario wurde aus Perspektive der ersten relevanten Rolle gelesen |
-| 14 | Szenario wurde aus Perspektive der zweiten relevanten Rolle gelesen |
+|  4 | Anchor für Verlinkung korrekt gesetzt und ID stimmt mit Text überein |
+|  5 | Git interne Links sind relative Links und korrekt |
+|  6 | Benennung zwischen Text und Header konsistent (bspw. Titel die im Text enthalten sind werden auch im Header gelistet) |
+|  7 | Kapitelüberschriften sind konsistent (Reihenfolge, Nummerierung, Titel) |
+|  8 | ID-Vergabe konsistent entsprechend Guide (siehe oben) |
+|  9 | [Template](../../02.-persona-und-szenarien.md#KAP-2.1) ist korrekt angewandt |
+| 10 | Begrifflichkeiten sind eindeutig bzw. im Glossar erklärt |
+| 11 | Szenario besitzt fachlichen Bezug zur DataPlatform |
+| 12 | Szenario ist nicht redundant zu anderen Szenarien |
+| 13 | Akteur ist als Persona vorhanden |
+| 14 | Szenario wurde aus Perspektive der ersten relevanten Rolle gelesen |
+| 15 | Szenario wurde aus Perspektive der zweiten relevanten Rolle gelesen |
