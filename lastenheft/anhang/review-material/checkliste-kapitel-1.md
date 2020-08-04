@@ -42,7 +42,7 @@
 | 5 | Quellen sind richtig verlinkt |
 | 6 | Anchor für Verlinkungen ist korrekt gesetzt |
 | 7 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
-| 8 | Systemkontext ist für nicht-Stakeholder begreifbar |
+| 8 | Systemkontext ist für domänenfremde Personen verständlich |
 | 9 | Durch die Beschreibung ist der Systemkontext erkennbar |
 |10 | Das Ziel lässt sich den Stakeholdern adressatengerecht präsentieren |
 | 11 | Begriffe sind verständlich bzw. im Glossar definiert. |
