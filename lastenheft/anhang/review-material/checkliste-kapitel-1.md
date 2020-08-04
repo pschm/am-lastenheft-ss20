@@ -20,7 +20,7 @@
 | 10 | Stakeholder des Ziels sind aufgeführt |
 | 11 | Auswirkungen auf die Stakeholder sind formuliert |
 | 12 | Denkbare Einschränkungen sind aufgeführt |
-| 13 | Das Ziel lässt sich Stakeholdern präsentieren |
+| 13 | Das Ziel lässt sich den Stakeholdern adressatengerecht präsentieren |
 | 14 | Begriffe sind verständlich bzw. im Glossar definiert. |
 | 15 | Glossarbegriffe sind verlinkt |
 | 16 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
@@ -42,9 +42,9 @@
 | 5 | Quellen sind richtig verlinkt |
 | 6 | Anchor für Verlinkungen ist korrekt gesetzt |
 | 7 | Systemkontextbeschreibung wird mit einem Strich vom nächsten getrennt |
-| 8 | Systemkontext ist für Außenstehende verständlich |
+| 8 | Systemkontext ist für nicht-Stakeholder begreifbar |
 | 9 | Durch die Beschreibung ist der Systemkontext erkennbar |
-|10 | Systemkontext lässt sich Stakeholdern präsentieren |
+|10 | Das Ziel lässt sich den Stakeholdern adressatengerecht präsentieren |
 | 11 | Begriffe sind verständlich bzw. im Glossar definiert. |
 | 12 | Glossarbegriffe sind verlinkt |
 | 13 | Verankerung/Verlinkung korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
@@ -63,7 +63,7 @@
 | 2 | Ziel wurde aus Sicht der [Leitung des InnoHubs](../../01.-stakeholer-ziele-und-systemkontext.md#131-perspektivenbasiertes-lesen) gelesen |
 | 3 | Rechtschreibung ist korrekt |
 | 4 | Grammatik ist korrekt |
-| 5 | Stakeholderliste lässt sich vor den Stakeholdern präsentieren |
+| 5 | Stakeholderliste lässt sich vor den Stakeholdern adressatengerecht präsentieren |
 | 6 | Stakeholder sind in TH/Firmen und InnoHub gegliedert |
 | 7 | Begriffe sind verständlich bzw. im Glossar definiert. |
 | 8 | Glossarbegriffe sind verlinkt |
