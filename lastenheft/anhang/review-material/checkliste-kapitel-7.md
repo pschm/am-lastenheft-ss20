@@ -49,7 +49,7 @@ Rolle: [Torsten Winterberg](https://github.com/pschm/am-lastenheft-ss20/blob/mas
 |---|---|
 |  1 | Sind die Abläufe technisch umsetzbar? |
 |  2 | Fehlt ein externer Actor?  |
-|  3 | Verhalten des Systems ist in den Ausnahmeszenarien ausreichend beschrieben |
+|  3 | Verhalten des Systems ist in den Ausnahmeszenarien ausreichend beschrieben (Ist immer klar wie sich das System in der Sitation verhält oder fehlen Schritte?) |
 |  4 | Bei den einzelnen Schritten die Frage stellen: Bringt mich das weiter? |
-|  5 | Verhalten des Systems ist in den Alternativszenarien ausreichend beschrieben |
+|  5 | Verhalten des Systems ist in den Alternativszenarien ausreichend beschrieben (Ist immer klar wie sich das System in der Sitation verhält oder fehlen Schritte?)|
 |  6 | Begriffe sind aus dieser Rolle verständlich bzw. im Glossar definiert. |
