@@ -47,7 +47,7 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 |  2 | Formulierung formal angemessen und professionell (Satzbau, Füllwörter, Grammatik, keine Umgangssprache)|
 |  3 | Quellen richtig verlinkt |
 |  4 | Anchor für Verlinkung korrekt gesetzt und ID stimmt mit Text überein |
-|  5 | Git interne Links sind relative Links und korrekt |
+|  5 | Git interne Links sind relative Links und korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 |  6 | Benennung zwischen Text und Header konsistent (bspw. Titel die im Text enthalten sind werden auch im Header gelistet) |
 |  7 | Kapitelüberschriften sind konsistent (Reihenfolge, Nummerierung, Titel) |
 |  8 | ID-Vergabe konsistent entsprechend Guide (siehe oben) |
@@ -70,7 +70,7 @@ Es existiert jeweils eine Checkliste für Personas und Szenarien, bitte füllt d
 |  2 | Formulierung formal angemessen und professionell (Satzbau, Füllwörter, Grammatik, keine Umgangssprache)|
 |  3 | Quellen richtig verlinkt |
 |  4 | Anchor für Verlinkung korrekt gesetzt und ID stimmt mit Text überein |
-|  5 | Git interne Links sind relative Links und korrekt |
+|  5 | Git interne Links sind relative Links und korrekt (auch **aus GitBook** heraus, GitBook-Verlinkungen bleiben im GitBook) |
 |  6 | Benennung zwischen Text und Header konsistent (bspw. Titel die im Text enthalten sind werden auch im Header gelistet) |
 |  7 | Kapitelüberschriften sind konsistent (Reihenfolge, Nummerierung, Titel) |
 |  8 | ID-Vergabe konsistent entsprechend Guide (siehe oben) |
