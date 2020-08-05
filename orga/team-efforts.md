@@ -44,5 +44,10 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 |  | ID-Schema inklusive Anker für Verlinkungen |  |  |  |  |  |  |  | 100% |
 | 8 | Vorbereitung, Verteilung & Überwachung der QS-Maßnahmen |  |  |  |  |  |  |  | 100% |
 | etc | Restrukturierung Discord |  | 100% |  |  |  |  |  |  |
+| 6 | Review der Priorisierten Anforderungen|  |  |  |  | 100% |  |  |  |
+| 6 | Vergleich der Anforderungen mit den Zielen|  |  |  |  | 100% |  |  |  |
+| 6 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen |  |  |  |  | 100% |  |  |  |
+
+
 
 
