@@ -29,6 +29,7 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 2 | Personas und Szenarien ermittelt | 12,5% | 12,5% |12,5% |12,5% | 12,5% | 12,5% |  | 12,5% |
 | 4 | Funktionale Anforderungen ermittelt | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% |
 | 4 | Duplikatsprüfung | | | 100% |  | |  |  | |
+| 4 | Review | 100% |  |  |  |  |  |  |  |
 | 4 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen  | | | 100% |  | |  |  | |
 | 4 | Review der funktionalen Anforderungen | | | 100%  |  | |  |  | |
 | 4 | Kategorisierung der funktionalen Anforderungen | | | 100% |  | |  |  | |
