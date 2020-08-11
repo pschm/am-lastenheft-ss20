@@ -64,19 +64,19 @@ Insgesamt haben 38 Studenten an der Umfrage teilgenommen.
 ![Studiengänge](../../img/StudentenFrage1.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer nach Semester
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage2.JPG)
+![](../../img/StudentenFrage2.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer, ob sie nebenbei arbeiten
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage3.JPG)
+![](../../img/StudentenFrage3.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer, ob sie Erfahrungen/Vorkenntnisse mit Datenanalyse haben
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage4.JPG)
+![](../../img/StudentenFrage4.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer, ob die Analyse von Daten sie reizen würde
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage5.JPG)
+![](../../img/StudentenFrage5.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer, welche zusätzlichen beruflichen Qualifikationen sie sich durch das Innovation Hub erhoffen und welche Arten der Kollaboration sie sch mit Unternehmen des Innovation Hub's vorstellen
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage6.JPG)
+![](../../img/StudentenFrage6.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer nach Interesse an studiengangsübergreifenden Projekten (Informatiker und Ingenieure gemeinsam)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage7.JPG)
+![](../../img/StudentenFrage7.JPG)
