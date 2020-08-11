@@ -1,4 +1,4 @@
-# Anleitung für das Review zu Kapitel 1
+# Anleitung für das Review zu Kapitel 3
 
 ## Metadaten
 | ID | Kapitel | Vorgesehen für |
