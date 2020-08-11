@@ -61,7 +61,7 @@ von "noch nie gehört" (0) bis "sehr vertraut" (4)
 Insgesamt haben 38 Studenten an der Umfrage teilgenommen. 
 
 #### Relativer Anteil der Befragungsteilnehmer nach Studiengang/Schwerpunkt
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage1.JPG)
+![Studiengänge](../../img/StudentenFrage1.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer nach Semester
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/StudentenFrage2.JPG)
