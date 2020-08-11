@@ -64,7 +64,7 @@ Insgesamt haben 38 Studenten an der Umfrage teilgenommen.
 ![Studiengänge](../../img/StudentenFrage1.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer nach Semester
-![](../../img/StudentenFrage2.JPG)
+![Semester](../../img/StudentenFrage2.JPG)
 
 #### Relativer Anteil der Befragungsteilnehmer, ob sie nebenbei arbeiten
 ![](../../img/StudentenFrage3.JPG)
