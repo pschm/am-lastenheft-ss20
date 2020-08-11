@@ -1,4 +1,4 @@
-## Umfrage für Studenten <a name="AN-0201-03">AN-0201-03</a>
+## Umfrage für Studenten
 
 ### Zur Person 
 

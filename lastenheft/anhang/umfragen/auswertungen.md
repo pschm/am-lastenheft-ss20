@@ -1,6 +1,8 @@
-# Quantitative Auswertungen der Fragebögen <a name="AN-0202">AN-0202</a>
+# Quantitative Auswertungen der Fragebögen
 
-## 1 Mitarbeiter der Unternehmen <a name="AN-0202-01">AN-0202-01</a>
+## 1 Mitarbeiter der Unternehmen
+**Kapitel-ID**: <a name="AN-0411">AN-0411</a>
+
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen1.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen2.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen3.png)
@@ -21,7 +23,9 @@ rot -> nein
 grün -> ja
 
 
-## 2 Mitarbeiter/Professoren der TH Köln <a name="AN-0202-02">AN-0202-02</a>
+## 2 Mitarbeiter/Professoren der TH Köln
+**Kapitel-ID**: <a name="AN-0412">AN-0412</a>
+
 ##### Relativer Anteil der Befragungsteilnehmer nach Rolle/Titel
 ![Rolle/Titel](../../img/umfrage-prof-wma-001.png)
 
@@ -51,7 +55,9 @@ von "noch nie gehört" (0) bis "sehr vertraut" (4)
 ##### Häufigkeit, in welchem Maße sich teilnehmende Personen vorstellen können, die Data Platform als Basis für Kontakt und Kollaboration mit Unternehmen zu nutzen. 
 ![Aufgabengebiet](../../img/umfrage-prof-wma-009.png)
 
-## 3 Studenten der TH Köln <a name="AN-0202-03">AN-0202-03</a>
+## 3 Studenten der TH Köln
+**Kapitel-ID**: <a name="AN-0412">AN-0413</a>
+
 Insgesamt haben 38 Studenten an der Umfrage teilgenommen. 
 
 #### Relativer Anteil der Befragungsteilnehmer nach Studiengang/Schwerpunkt

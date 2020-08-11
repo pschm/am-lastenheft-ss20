@@ -1,4 +1,4 @@
-# Umfrage für Unternehmen <a name="AN-0201-01">AN-0201-01</a>
+# Umfrage für Unternehmen
 ## Zu Unternehmen und Person
 
 ### Aus den gegebenen Optionen, in welcher ist ihr Unternehmen eher angesiedelt? (single-choice)

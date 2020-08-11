@@ -1,4 +1,4 @@
-# Umfrage für Professor\*in und Wissenschaftliche\*r Mitarbeiter\*in <a name="AN-0201-02">AN-0201-02</a>
+# Umfrage für Professor\*in und Wissenschaftliche\*r Mitarbeiter\*in
 ## Zur Person
 
 ### Rolle/Titel (single-choice)
