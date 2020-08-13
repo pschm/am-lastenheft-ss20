@@ -3,7 +3,7 @@
 ## 1 Mitarbeiter der Unternehmen
 **Kapitel-ID**: <a name="AN-0411">AN-0411</a>
 
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen1.png)
+![](../../img/FrageUnternehmen1.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen2.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen3.png)
 ![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen4.png)
