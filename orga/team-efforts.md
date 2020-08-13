@@ -44,7 +44,7 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 6 | Priorisierung der Anforderungen |  |  |  |  | 100% |  |  |  |
 |  | ID-Schema inklusive Anker für Verlinkungen |  |  |  |  |  |  |  | 100% |
 | 7 | Vorbereitung der Use Cases |  |  |  |  |  |   | 100% | |
-| 7 | Erstellung der Use Cases | 16,66% | 16,66%  |  | 16,66%  | 16,66%  |   |16,66%   |16,66%  |
+| 7 | Erstellung der Use Cases | 12,5% | 12,5%  | 12,5% | 12,5%  | 12,5%  |   |12,5%   |12,5%  |
 | 8 | Vorbereitung, Verteilung & Überwachung der QS-Maßnahmen |  |  |  |  |  |  |  | 100% |
 | etc | Restrukturierung Discord |  | 100% |  |  |  |  |  |  |
 | 6 | Review der Priorisierten Anforderungen|  |  |  |  | 100% |  |  |  |
