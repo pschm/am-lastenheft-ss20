@@ -4,12 +4,12 @@
 **Kapitel-ID**: <a name="AN-0411">AN-0411</a>
 
 ![](../../img/FrageUnternehmen1.png)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen2.png)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen3.png)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen4.png)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen5.png)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmen6.png)
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmenPcaUnternehmenPositionen.png)
+![](../../img/FrageUnternehmen2.png)
+![](../../master/lastenheft/img/FrageUnternehmen3.png)
+![](../../img/FrageUnternehmen4.png)
+![](../../img/FrageUnternehmen5.png)
+![](../../img/FrageUnternehmen6.png)
+![](../../img/FrageUnternehmenPcaUnternehmenPositionen.png)
 
 rot -> Leitende/Strategische Position  
 grün -> Verwaltung  
@@ -17,7 +17,7 @@ blau -> Entwicklung
 schwarz -> Vertrieb  
 türkis -> Industriemeister für Elektrotechnik
 
-![](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/img/FrageUnternehmenPcaUnternehmenAufgabenbereich.png)
+![](../../img/FrageUnternehmenPcaUnternehmenAufgabenbereich.png)
 
 rot -> nein  
 grün -> ja
