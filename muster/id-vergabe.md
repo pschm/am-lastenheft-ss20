@@ -16,6 +16,9 @@ Für die Vergabe von den IDs gilt ein einheitliches Format mittels [Kapitelkürz
 |**Q**ualität**s**sicherung | **QS**
 |**Qu**ellen |  **QU**
 |**An**hang |  **AN**
+|**U**se Case **D**iagramm |  **UD**
+|**U**se Case **A**ktivitätsdiagramm |  **UA**
+
 
 # Beispiel:
 ## 5. Nicht funktionale Anforderungen
