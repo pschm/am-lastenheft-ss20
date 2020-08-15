@@ -16,6 +16,7 @@
   * [8. Qualitätssicherung](lastenheft/08.-qualitaetssicherung.md)
   * [9. Quellen](lastenheft/09.-quellen.md)
   * [10. Anhang](lastenheft/10.-anhang.md)
+    * [10.0 Offene Punkte aus der QS](lastenheft/anhang/offene-punkte.md)
     * [10.1 Interviewleitfaden](lastenheft/anhang/interviewleitfaden/README.md)      
       * [Team-1](lastenheft/anhang/interviewleitfaden/team-1_projektleiter-innohub.md)
       * [Team-2](lastenheft/anhang/interviewleitfaden/Team-2_Denis-Anders.md)
