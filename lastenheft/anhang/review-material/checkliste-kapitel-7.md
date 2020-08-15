@@ -3,7 +3,7 @@
 ## Metadaten Allgemein
 | ID | Kapitel | Vorgesehen für |
 |---|---|---|
-| <a name="AN-0371">**AN-0371**</a> | [7. Use-Cases](https://github.com/pschm/am-lastenheft-ss20/blob/master/lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation, Aktivitätsdiagramme |
+| <a name="AN-0371">**AN-0371**</a> | [7. Use-Cases](../lastenheft/07.-use-cases.md#7-use-cases) | Use Case Diagramme, Use Case - Spezifikation, Aktivitätsdiagramme |
 
 ## Checkliste
 
