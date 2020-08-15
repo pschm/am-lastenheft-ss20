@@ -18,6 +18,7 @@ Für die Vergabe von den IDs gilt ein einheitliches Format mittels [Kapitelkürz
 |**An**hang |  **AN**
 |**U**se Case **D**iagramm |  **UD**
 |**U**se Case **A**ktivitätsdiagramm |  **UA**
+|**U**se Case **S**Spezifikation |  **UA**
 
 
 # Beispiel:
