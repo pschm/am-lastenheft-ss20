@@ -26,30 +26,38 @@ Allgemeine Aufwände (Redaktion, QS) werden von Prof. Bente am Ende des Kurses i
 | 2 | Vorgaben und generelle Organisation für Umfragen |  | 100% |  |  |  |  |  |  |
 | 2 | Vorgaben, Formalisierung und generelle Organisation für Personas und Szenarien |  | 100% |  |  |  |  |  |  |
 | 2 | Redaktionelle Aufarbeitung & Struktur Kapitel 2 |  | 100% |  |  |  |  |  |  |
-| 2 | Personas und Szenarien ermittelt | 12,5% | 12,5% |12,5% |12,5% | 12,5% | 12,5% |  | 12,5% |
+| 2 | Personas und Szenarien ermittelt | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% |
 | 4 | Funktionale Anforderungen ermittelt | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% |
-| 4 | Duplikatsprüfung | | | 100% |  | |  |  | |
+| 4 | Duplikatsprüfung |  |  | 100% |  |  |  |  |  |
 | 4 | Review | 100% |  |  |  |  |  |  |  |
-| 4 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen  | | | 100% |  | |  |  | |
-| 4 | Review der funktionalen Anforderungen | | | 100%  |  | |  |  | |
-| 4 | Kategorisierung der funktionalen Anforderungen | | | 100% |  | |  |  | |
-| 4 | Vorgabe der Ziel-funktionale Anforderungen Tabelle  | | | 100% |  | |  |  | |
+| 4 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen |  |  | 100% |  |  |  |  |  |
+| 4 | Review der funktionalen Anforderungen |  |  | 100% |  |  |  |  |  |
+| 4 | Kategorisierung der funktionalen Anforderungen |  |  | 100% |  |  |  |  |  |
+| 4 | Vorgabe der Ziel-funktionale Anforderungen Tabelle |  |  | 100% |  |  |  |  |  |
 | 5 | Nicht-Funktionale Anforderungen ermittelt | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% |
-| 5 | Duplikatsprüfung | | |  | 100% | |  |  | |
-| 5 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen  | | |  | 100% | |  |  | |
-| 5 | Review der nicht-funktionalen Anforderungen | | |  | 100% | |  |  | |
-| 5 | Kategorisierung der nicht-funktionalen Anforderungen | | |  | 100% | |  |  | |
-| 5 | Vorgabe der Ziel- nicht-funktionale Anforderungen Tabelle  | | |  | 100% | |  |  | |
+| 5 | Duplikatsprüfung |  |  |  | 100% |  |  |  |  |
+| 5 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen |  |  |  | 100% |  |  |  |  |
+| 5 | Review der nicht-funktionalen Anforderungen |  |  |  | 100% |  |  |  |  |
+| 5 | Kategorisierung der nicht-funktionalen Anforderungen |  |  |  | 100% |  |  |  |  |
+| 5 | Vorgabe der Ziel- nicht-funktionale Anforderungen Tabelle |  |  |  | 100% |  |  |  |  |
 | 6 | Bewertung der Anforderungen | 12,5% |  | 12,5% | 12,5% |  |  | 25% | 25% |
 | 6 | Priorisierung der Anforderungen |  |  |  |  | 100% |  |  |  |
 |  | ID-Schema inklusive Anker für Verlinkungen |  |  |  |  |  |  |  | 100% |
-| 7 | Vorbereitung der Use Cases |  |  |  |  |  |   | 100% | |
-| 7 | Erstellung der Use Cases | 12,5% | 12,5%  | 12,5% | 12,5%  | 12,5%  |   |12,5%   |12,5%  |
+| 7 | Vorbereitung der Use Cases |  |  |  |  |  |  | 100% |  |
+| 7 | Erstellung der Use Cases | 12,5% | 12,5% | 12,5% | 12,5% | 12,5% |  | 12,5% | 12,5% |
 | 8 | Vorbereitung, Verteilung & Überwachung der QS-Maßnahmen |  |  |  |  |  |  |  | 100% |
 | etc | Restrukturierung Discord |  | 100% |  |  |  |  |  |  |
-| 6 | Review der Priorisierten Anforderungen|  |  |  |  | 100% |  |  |  |
-| 6 | Vergleich der Anforderungen mit den Zielen|  |  |  |  | 100% |  |  |  |
+| 6 | Review der Priorisierten Anforderungen |  |  |  |  | 100% |  |  |  |
+| 6 | Vergleich der Anforderungen mit den Zielen |  |  |  |  | 100% |  |  |  |
 | 6 | Vergabe von IDs, Anker für Verlinkungen & Angabe der Quellen |  |  |  |  | 100% |  |  |  |
+| 8 | Kapitel redaktionell aufgearbeitet |  |  |  |  |  |  |  | 100% |
+| 3 | ID Vergabe und Sortierung |  |  |  |  |  |  |  | 100% |
+| 3 | Review und Ergebniseinarbeitung übernommen |  |  |  |  |  |  |  | 100% |
+| 8 | Offene Punkte aus QS extrahiert |  |  |  |  |  |  |  | 100% |
+|  | Abgabedokument aus Gitbook generiert |  |  |  |  |  |  |  | 100% |
+| Anhang | ID Vergabe und ID Pflege |  |  |  |  |  |  |  | 100% |
+| Anhang | Kapitel redaktionell aufgearbeitet |  |  |  |  |  |  |  | 100% |
+
 
 
 
