@@ -1,6 +1,6 @@
 # Anforderungsmanagement
 
-> HINWEIS: Die Veranstaltung wurde am 19.08.2020 abgeschlossen und zu Zwecken der Ergebnissicherung ist das Repository archiviert worden.
+> **HINWEIS**: *Die Veranstaltung wurde am 19.08.2020 abgeschlossen und zu Zwecken der Ergebnissicherung ist das Repository archiviert worden.*
 
 ---
 
