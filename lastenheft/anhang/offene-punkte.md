@@ -1,7 +1,6 @@
 # Offene Punkte (aus der Qualitätssicherung)
 
 * **Generelle Auffälligkeiten**: Der Walkthrough in Kapitel 5 für die nicht funktionalen Anforderungen wurde vermutlich unvollständig durchgeführt, da zumindest ein Teil der Autoren nicht konsultiert wurde. 
-* **Kapitel 6**: 
 * **Kapitel 7**: Kein einheitliches Format für die Diagramme gewählt. Außerdem wurde davon abgesehen, gefundene Fehler in den Diagrammen zu beheben (z.B. [QS-0704](../08.-qualitaetssicherung.md#QS-0704))
 * **Kapitel 8**: Die Qualitätssicherung deckte ein paar 
 diskussionsbedürftige Aspekte auf, die in diesem Modul aufgrund der 
