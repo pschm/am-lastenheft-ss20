@@ -4,7 +4,7 @@ Anforderungsmanagement \(AM\) ist eine Pflichtveranstaltung im Informatik Master
 
 ## Lastenheft
 
-Die Formulierung des Lastenhefts erfolgt in Markdown. Jedes Team erhält eine eigene Datei, welche den Inhalt des zu erstellenden Kapitels darstellt. Das Repository ist mit [GitBook](https://philipp-schmeier.gitbook.io/am-lastenheft-ss20/) verbunden, wodurch eine übersichtliche Darstellung der Kapitel ermöglicht wird.
+Die Formulierung des Lastenhefts erfolgt in Markdown. Jedes Team erhält eine eigene Datei, welche den Inhalt des zu erstellenden Kapitels darstellt. Das Repository ist mit [GitBook](https://am-lastenheft-ss20.gitbook.io/am-lastenheft-ss20/) verbunden, wodurch eine übersichtliche Darstellung der Kapitel ermöglicht wird.
 
 ## Aufwandserfassung
 
