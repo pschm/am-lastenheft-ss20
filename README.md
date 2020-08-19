@@ -1,6 +1,11 @@
 # Anforderungsmanagement
 
+> HINWEIS: Die Veranstaltung wurde am 19.08.2020 abgeschlossen und zu Zwecken der Ergebnissicherung ist das Repository archiviert worden.
+
+---
+
 Anforderungsmanagement \(AM\) ist eine Pflichtveranstaltung im Informatik Master \(Software Engineering\) an der TH Köln. Nähere Informationen zur Veranstaltung auf [https://www.archi-lab.io/display/public/AM](https://www.archi-lab.io/display/public/AM). Dieses [Repository](https://github.com/pschm/am-lastenheft-ss20) verwaltet das Lastenheft und die dazugehörige Aufgabenverwaltung via [Issues](https://github.com/pschm/am-lastenheft-ss20/issues) und [Kanban-Board](https://github.com/pschm/am-lastenheft-ss20/projects/1).
+
 
 ## Lastenheft
 
